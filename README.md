@@ -1,6 +1,20 @@
-🤝🏻Hii, I am Angad Kumar Shaw
-<br>	🎓CSE student building real-world projects 🚀<br>	🖱️Tech enthusiast | Web dev | Exploring AI<br>	✨Turning ideas into code 💡<br>	⚙️Student developer | Learning by building<br>	🎗️Future founder | Passionate about tech<br>
+# Angad Kumar Shaw
 
+Computer Science student focused on building scalable mobile applications and modern SaaS systems.
+
+## Tech Stack
+- React Native
+- Firebase
+- JavaScript
+- Firestore
+- Expo Router
+- Git & GitHub
+
+## Currently Working On
+- Mobile UI/UX systems
+- Real-time Firebase workflows
+- Scalable SaaS architecture
+- Product-focused application development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__aayushhh.sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angadxscript) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/__aayushhh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angadxscript) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angad.kshaw@gmail.com) 
